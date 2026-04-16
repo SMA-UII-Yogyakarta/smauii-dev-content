@@ -3,6 +3,7 @@ title: "Software Engineering"
 description: "Belajar membangun software yang nyata — dari version control, web development, hingga kontribusi open source."
 icon: "💻"
 order: 1
+tags: [programming, web, git, javascript]
 ---
 
 # Software Engineering
@@ -12,11 +13,11 @@ Track ini mempersiapkan kamu untuk menjadi software engineer yang bisa berkontri
 ## Roadmap
 
 ```mermaid
-graph TD
+graph LR
     A[Git & GitHub] --> B[Web Fundamentals]
     B --> C[JavaScript]
     C --> D[Framework Modern]
-    D --> E[Open Source Contribution]
+    D --> E[Open Source]
 ```
 
 ## Modul
