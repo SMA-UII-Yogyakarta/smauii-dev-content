@@ -20,9 +20,12 @@ tracks/
 
 ## Kontribusi
 
+Ingin berkontribusi? Baca [CONTRIBUTING.md](./CONTRIBUTING.md) dulu — ada panduan lengkap tentang cara menulis lesson yang baik, standar kode, frontmatter spec, dan workflow PR.
+
+**TL;DR untuk yang sudah familiar:**
 1. Fork repo ini
-2. Buat branch: `feat/nama-materi`
-3. Tulis konten dengan frontmatter yang benar
+2. Buat branch: `feat/nama-track-judul-lesson`
+3. Ikuti struktur dan frontmatter yang ada
 4. Pull Request ke `main`
 
 ## Frontmatter
