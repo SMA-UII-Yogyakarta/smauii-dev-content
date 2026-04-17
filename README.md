@@ -38,7 +38,8 @@ Konten pembelajaran yang baik seharusnya **transparan, bisa diaudit, dan bisa di
 | 🌐 | [Jaringan Komputer](./tracks/jaringan-komputer) | 5 | 12 | OSI & TCP/IP |
 | 🔐 | [Keamanan Siber](./tracks/keamanan-siber) | 5 | 12 | CIA Triad |
 | 🤖 | [Robotika & IoT](./tracks/robotika-iot) | 5 | 12 | Elektronika Dasar |
-| 🎨 | [Desain UI/UX](./tracks/desain-uiux) | 5 | 5+ | Prinsip Desain |
+| 🎨 | [Desain UI/UX](./tracks/desain-uiux) | 5 | 13 | Prinsip Desain |
+| 📣 | [Digital Marketing](./tracks/digital-marketing) | 5 | 10+ | Strategi & Funnel |
 
 Setiap track dirancang untuk membawa kamu dari **nol** sampai bisa **berkontribusi ke proyek nyata**.
 
