@@ -7,7 +7,7 @@
  */
 
 import { readdirSync, readFileSync, statSync } from "fs";
-import { join, basename } from "path";
+import { join } from "path";
 
 const TRACKS_DIR = "./tracks";
 const SHOW_MISSING = process.argv.includes("--missing");
