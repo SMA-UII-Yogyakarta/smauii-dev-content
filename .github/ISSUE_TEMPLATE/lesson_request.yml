@@ -1,0 +1,34 @@
+---
+name: "📝 Lesson Baru"
+about: Ajukan ide atau request lesson yang ingin ditambahkan
+title: "[LESSON] "
+labels: ["lesson-request", "enhancement"]
+---
+
+## Track & Modul
+
+**Track:** (contoh: software-engineering)
+**Modul:** (contoh: 03-javascript)
+
+## Judul Lesson yang Diajukan
+
+<!-- Contoh: "TypeScript Generics & Utility Types" -->
+
+## Mengapa Lesson Ini Dibutuhkan?
+
+<!-- Jelaskan gap yang ada — apa yang tidak bisa dipelajari dari lesson yang sudah ada? -->
+
+## Target Audiens
+
+- Level: [ ] Beginner [ ] Intermediate [ ] Advanced
+- Estimasi durasi: __ menit
+- Prerequisites: <!-- lesson apa yang harus diselesaikan dulu? -->
+
+## Garis Besar Konten
+
+<!-- Apa saja yang akan dibahas? Bullet points cukup -->
+
+## Apakah Kamu Bersedia Menulisnya?
+
+[ ] Ya, saya ingin menulis lesson ini
+[ ] Tidak, saya hanya mengajukan ide

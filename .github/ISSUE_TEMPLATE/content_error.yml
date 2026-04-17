@@ -1,0 +1,29 @@
+---
+name: "🐛 Error di Konten"
+about: Laporkan kesalahan — kode tidak berjalan, penjelasan keliru, typo signifikan
+title: "[BUG] "
+labels: ["bug", "content-error"]
+---
+
+## Lesson yang Bermasalah
+
+**File:** `tracks/.../namafile.md`
+**Link:** (paste URL GitHub-nya)
+
+## Deskripsi Masalah
+
+<!-- Jelaskan dengan jelas apa yang salah -->
+
+## Apa yang Seharusnya Terjadi?
+
+<!-- Kode seharusnya menghasilkan apa? Penjelasan seharusnya bagaimana? -->
+
+## Apa yang Terjadi Saat Ini?
+
+<!-- Error message, output yang salah, atau penjelasan yang membingungkan -->
+
+## Environment (jika error kode)
+
+- OS: 
+- Python/Node/Bun version:
+- Library version:
