@@ -184,7 +184,7 @@ Gunakan diagram untuk hal yang sulit dijelaskan dengan teks. Jangan diagram untu
 
 ### Standar Visual
 
-```markdown
+````markdown
 # ✅ Diagram yang informatif
 ```mermaid
 graph LR
@@ -201,7 +201,7 @@ graph LR
 graph LR
     A[Mulai] --> B[Akhir]
 ```
-```
+````
 
 ---
 
@@ -474,7 +474,7 @@ Test dengan dataset iris — output harus match nilai berikut: {...}
 
 Berikut adalah contoh lesson yang memenuhi semua standar di atas:
 
-```markdown
+````markdown
 ---
 title: "Git Commit yang Baik"
 track: software-engineering
@@ -572,7 +572,7 @@ Buka repo GitHub-mu (atau buat baru):
 2. Gunakan `git rebase -i HEAD~3` untuk edit pesan commit
 3. Ubah ketiganya menjadi Conventional Commits yang baik
 4. Push dan cek apakah history terlihat lebih rapi
-```
+````
 
 ---
 
