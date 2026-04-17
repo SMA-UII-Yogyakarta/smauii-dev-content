@@ -130,6 +130,25 @@ Untuk `README.md` track dan modul, frontmatter lebih sederhana — lihat detail 
 
 Kami menyambut kontribusi dari **siapapun** — siswa, alumni, guru, atau developer yang peduli pendidikan teknologi Indonesia.
 
+### Setup & Analisis Konten
+
+Tidak perlu install dependency apapun — cukup Node.js:
+
+```bash
+# Clone repo
+git clone https://github.com/SMA-UII-Yogyakarta/smauii-dev-content.git
+cd smauii-dev-content
+
+# Lihat semua konten yang ada (dengan statistik)
+node analyze.mjs
+
+# Lihat slot kosong yang butuh kontribusi ← mulai dari sini!
+node analyze.mjs --missing
+
+# Output JSON untuk integrasi tools lain
+node analyze.mjs --json
+```
+
 ### Mulai Cepat
 
 ```bash

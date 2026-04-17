@@ -350,6 +350,22 @@ tracks/
 
 ## Workflow Kontribusi
 
+### Langkah Pertama untuk Kontributor Baru
+
+```bash
+# 1. Clone repo
+git clone https://github.com/SMA-UII-Yogyakarta/smauii-dev-content.git
+cd smauii-dev-content
+
+# 2. Jalankan analyzer — lihat kondisi konten saat ini
+node analyze.mjs
+
+# 3. Lihat slot yang butuh diisi
+node analyze.mjs --missing
+
+# 4. Pilih modul yang ingin kamu isi, lalu lanjut ke langkah di bawah
+```
+
 ### Untuk Lesson Baru
 
 ```bash
