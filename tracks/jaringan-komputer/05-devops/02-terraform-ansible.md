@@ -138,7 +138,7 @@ terraform destroy # Hapus semua resource
 server1 ansible_host=1.2.3.4 ansible_user=ubuntu
 server2 ansible_host=5.6.7.8 ansible_user=ubuntu
 
-[all:vars]
+[all&#x200B;:vars]
 ansible_ssh_private_key_file=~/.ssh/id_ed25519
 ```
 
