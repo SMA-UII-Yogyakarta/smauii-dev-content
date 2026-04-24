@@ -1,5 +1,7 @@
 ---
 title: "Algoritma Kompetitif"
+track: software-engineering
+module: 06-algoritma-kompetitif
 description: "Persiapan KSN/OSN Informatika — dari kompleksitas waktu sampai dynamic programming dan graph."
 icon: "🏆"
 order: 6
